@@ -1,0 +1,13 @@
+# Local output and temporary artifacts
+output/
+tmp/
+.tmp/
+__pycache__/
+*.pyc
+
+# Local credentials and machine files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
